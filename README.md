@@ -4,7 +4,7 @@ Some favorite computery resources relevant to my interests.
 
 My preferred learning modalities are text-based, visual, and exploratory, and I tend to not do so well with audio. Any recommendations I make may not necessarily work well for people who prefer audio to text, or who have difficulty with spatial intuition.
 
-There are not a lot of straightforward how-to resources in this list; it's more skewed toward foundational understanding & conceptual frameworks.
+I also enjoy foundational theoretical understanding, so this list biases more toward "how/why it works" than "how-to".
 
 -----
 # Computer science & related concepts
@@ -21,6 +21,8 @@ A data structure that simplifies distributed data storage by guaranteeing eventu
 - [CRDTs: The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw) is a 70m talk by Kleppmann on how it's easy to satisfy the technical definition of a CRDT, but some reasons it's hard to build ones that satisfy intuitive end-user expectations.
 
 ## Computer graphics
+
+- [MIT 6.837 Computer Graphics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)
 
 ### Shaders
 
@@ -41,7 +43,6 @@ The field of computationally making inferences about _natural language_, that is
 - _Introduction to Algorithms, 3rd ed._ (1989), better known as [CLRS](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) after the initials of its authors. Canonical classic CS textbook.
 - USACO (USA Computing Olympiad) [training resources](http://www.usaco.org/index.php?page=training). I grew up on these and my interest in computer science probably began here. Great hands-on approach to thinking about clever algorithmic design and performance optimization, through the allegory of cows.
 
-
 -----
 # Software engineering
 
@@ -57,13 +58,25 @@ Observability is extremely distinct from _monitoring_, in which complex bodies o
 
 - ["Computers Can Be Understood" (Nelson Elhage)](https://blog.nelhage.com/post/computers-can-be-understood/)
 
+## Design philosophy
+
+[Small Sharp Tools | Brandur](https://brandur.org/small-sharp-tools)
+> the idea of building minimalist, composable programs that worked in concert to a degree of effectiveness that was more than the sum of their parts
+
+[Local-first software | Ink & Switch](https://www.inkandswitch.com/local-first.html)
 
 -----
 # Language/framework-specific
 
+## Webassembly
+
+- [Lin Clark's intro to WASM](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
+- [languages with WASM build support](https://github.com/appcypher/awesome-wasm-langs)
+	- [golang -> WASM experimental port](https://github.com/golang/go/wiki/WebAssembly)
+
 ## Golang (2009)
 
-todo
+- [TinyGo](https://tinygo.org/): a subset of Golang designed to be run on embedded systems or in WebAssembly
 
 ## Rust (2010)
 
