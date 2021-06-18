@@ -15,7 +15,6 @@ hell.
 
 - [xemantic's recommended web abstractions](https://xemantic.github.io/shader-web-background/#alternatives).
 
------
 
 # Specific languages/frameworks
 
@@ -26,11 +25,9 @@ hell.
 	- [golang -> WASM experimental port](https://github.com/golang/go/wiki/WebAssembly)
 - [TinyGo](https://tinygo.org/): a subset of Golang designed to be run on embedded systems or in WebAssembly
 
-## Clojure (2007)
+## Clojure
 
-Released 2007.
-
-An expressive functional language that runs on the JVM and has built-in concurrency and immutable data structures. Was specifically created to address frustrations with the weaknesses of OOP (object-oriented programming) in dealing with concurrent programming.
+Released in 2007. An expressive functional language that runs on the JVM and has built-in concurrency and immutable data structures. Was specifically created to address frustrations with the weaknesses of OOP (object-oriented programming) in dealing with concurrent programming.
 
 - [_The Joy of Clojure_](https://www.manning.com/books/the-joy-of-clojure-second-edition), Michael Fogus & Chris Hauser, 2014. A Socratic exploration of the reasoning behind Clojure's design paradigms and idiomatic usage, and how to think in Clojure.
 - [Leiningen](http://leiningen.org/), invoked as `lein`, is a commonly used Clojure project manager that helps you manage dependencies, run tests, package your project, etc.

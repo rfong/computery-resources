@@ -6,6 +6,7 @@ My preferred learning modalities are text-based, visual, and exploratory, and I 
 
 I also enjoy foundational theoretical understanding, so this list biases more toward "how/why it works" than "how-to".
 
+
 # Subsections
 - [computer science](COMPSCI.md)
 - [corpora & datasets](CORPORA.md)
