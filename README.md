@@ -9,7 +9,7 @@ I also enjoy foundational theoretical understanding, so this list biases more to
 
 # Subsections
 - [computer science](COMPSCI.md)
-- [corpora & datasets](CORPORA.md)
 - [software engineering principles](ENGINEERING.md)
 - [choosing and understanding toolchains](TOOLCHAINS.md)
+- [corpora & datasets](CORPORA.md)
 - [useful tools](UTILS.md)
