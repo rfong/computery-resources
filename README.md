@@ -1,4 +1,4 @@
-Some favorite computery resources relevant to my interests.
+Some favorite computery resources relevant to my interests. Perpetual work in progress.
 
 ### Context: learning modalities
 
@@ -13,3 +13,6 @@ I also enjoy foundational theoretical understanding, so this list biases more to
 - [choosing and understanding toolchains](TOOLCHAINS.md)
 - [corpora & datasets](CORPORA.md)
 - [useful tools](UTILS.md)
+
+# TODO
+- ethics
