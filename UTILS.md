@@ -8,6 +8,8 @@
 If you're not sold on Stretchly, [sedentary lifestyles](https://pubmed.ncbi.nlm.nih.gov/?term=sedentary+death) are associated with significantly elevated chances of early death, and getting up for just 2 minutes every hour can [nontrivially lower that chance](https://www.npr.org/sections/health-shots/2015/05/01/403523463/two-minutes-of-walking-an-hour-boosts-health-but-its-no-panacea).
 
 - [`trash` for OSX](https://formulae.brew.sh/formula/trash): a CLI utility that moves files to the trash instead of `rm`ing them forever.
+- [LeechBlock](https://www.proginosko.com/leechblock/): an extremely configurable browser extension for timesink management. You can block/filter by domains and URL patterns, set schedules and time quotas with different consequences, and decide what kinds of override are allowed. I find it much more effective to have tiered blocking/filtering that's customized to my psychology, vs a normal domain blocker, which I am more likely to just deactivate.
+- [Grayscale The Web](https://chrome.google.com/webstore/detail/grayscale-the-web-save-si/mblmpdpfppogibmoobibfannckeeleag?hl=en): a simple browser extension that grayscales tabs or domains. Great for making social media less appealing.
 
 ## Window management
 - [Spectacle](https://github.com/eczarny/spectacle) *(OSX only)*
@@ -30,4 +32,4 @@ If you're not sold on Stretchly, [sedentary lifestyles](https://pubmed.ncbi.nlm.
 ### Lookup tools
 - [0to255](https://www.0to255.com/): a lookup website that scales hex value colors up and down in lightness in HSL space. You can also make a shortcut by adding `https://0to255.com/%s` in your custom search engines.
 - [httpstatus](https://httpstatus.com/511): a lookup website for HTTP status codes. Pattern: `https://httpstatus.com/%s`
-- [LoremIpsum.co](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/): has an impressive list of filler text generators, great for filling divs so you can test website layouts. My personal preferences are [Hipster Ipsum](https://hipsum.co/) and [Postmodernism Generator](https://www.elsewhere.org/pomo/).
+- [LoremIpsum.co](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/): has an impressive list of filler text generators, great for filling divs so you can test website layouts. My personal favorites are [Hipster Ipsum](https://hipsum.co/), [Space Ipsum](https://spaceipsum.com/), and [Postmodernism Generator](https://www.elsewhere.org/pomo/).
