@@ -5,6 +5,7 @@ hell.
 ## Makefiles & build systems
 
 - [Makefiles for Go developers | TutorialEdge](https://tutorialedge.net/golang/makefiles-for-go-developers/)
+- [explanation/comparison of JS bundlers (written 2018) | AJ Meyghani](https://medium.com/@ajmeyghani/javascript-bundlers-a-comparison-e63f01f2a364); discusses how JS modules & module loaders work, and compares bundle size & build time for Webpack, Rollup, Parcel, Browserify, Fusebox.
 
 ## Data analysis
 
