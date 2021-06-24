@@ -14,5 +14,8 @@ I also enjoy foundational theoretical understanding, so this list biases more to
 - [corpora & datasets](CORPORA.md)
 - [useful tools](UTILS.md)
 
+# Bonus
+- [physical ergonomics](ERGONOMICS.md)
+
 # TODO
 - ethics
