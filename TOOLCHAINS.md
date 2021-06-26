@@ -12,9 +12,16 @@ hell.
 - [Quick reference for data analysis with Python | Linna Li](https://linnali.com/posts/quick_reference_for_data_analysis_with_python/)
 - [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 
-## Shader setups/abstractions
+## WebGL & WebGPU
 
-- [xemantic's recommended web abstractions](https://xemantic.github.io/shader-web-background/#alternatives).
+- [xemantic's favorite WebGL abstractions](https://xemantic.github.io/shader-web-background/#alternatives)
+- [dmnsgn's list of WebGL/WebGPU frameworks](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc)
+- [WebGLFundamentals article on GLSL uniform types](https://webglfundamentals.org/webgl/lessons/webgl-shaders-and-glsl.html)
+
+
+# Wrangling data
+
+- [`jq` cheat sheet](https://gist.github.com/olih/f7437fb6962fb3ee9fe95bda8d2c8fa4)
 
 
 # Specific languages/frameworks

@@ -14,11 +14,16 @@ As a vim user and touch typist with pinky RSI, minor thumb arthritis, and no wri
 ### Firmware
 
 Many indie keyboard users make use of [QMK](https://qmk.fm/), an open-source 
-firmware project for heavily customizing computer input devices, with a focus 
-on keyboards and great support for layering and macros.
+firmware project for heavily customizing computer input devices, with great 
+support for layering and macros.
 
-While you can make QMK do whatever you want at an extremely low level, there 
-are also streamlined user interfaces for simple keymapping.
-- [QMK Configurator](https://config.qmk.fm/): an online interface & tool for creating config files for keyboards supported in `qmk_firmware`
-- [QMK Toolbox](https://qmk.fm/toolbox/): a desktop app for flashing firmware files onto keyboards
-- [VIA](https://caniusevia.com/): an extremely user-friendly desktop app for changing keymaps and auto-reflashing your keyboard with them
+If you only need "basic functionality" (remapping keys and using layers and 
+macros), there are some great streamlined tools for that which don't require 
+you to write any code.
+- [VIA](https://caniusevia.com/): an extremely user-friendly desktop app for quickly modifying keymaps and auto-reflashing your keyboard with the new configurations.
+- [QMK Configurator](https://config.qmk.fm/): an online interface & tool for creating configurations for keyboards supported in `qmk_firmware`. Can use [QMK Toolbox](https://qmk.fm/toolbox/) to flash your board.
+
+Some examples of advanced QMK functionality:
+- Assigning a key different functions on tap vs. hold, or based on number of taps
+- Custom LED/OLED behavior
+- Interpret a joystick, trackball, etc
