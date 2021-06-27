@@ -26,4 +26,4 @@ you to write any code.
 Some examples of advanced QMK functionality:
 - Assigning a key different functions on tap vs. hold, or based on number of taps
 - Custom LED/OLED behavior
-- Interpret a joystick, trackball, etc
+- Interpret custom franken-keyboard hardware, such as a keyboard with a mini trackball soldered on
