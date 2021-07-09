@@ -1,4 +1,4 @@
-Some favorite computery resources relevant to my interests. Perpetual work in progress.
+Some recommended computery resources. Perpetual work in progress.
 
 ### Context: learning modalities
 
@@ -16,6 +16,7 @@ I also enjoy foundational theoretical understanding, so this list biases more to
 
 # Bonus
 - [physical ergonomics](ERGONOMICS.md)
+- [educational explorables](EXPLORABLES.md)
 
 # TODO
 - ethics
