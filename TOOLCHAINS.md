@@ -18,7 +18,6 @@ hell.
 - [dmnsgn's list of WebGL/WebGPU frameworks](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc)
 - [WebGLFundamentals article on GLSL uniform types](https://webglfundamentals.org/webgl/lessons/webgl-shaders-and-glsl.html)
 
-
 # Wrangling data
 
 - [`jq` cheat sheet](https://gist.github.com/olih/f7437fb6962fb3ee9fe95bda8d2c8fa4)
@@ -26,11 +25,16 @@ hell.
 
 # Specific languages/frameworks
 
-## Webassembly
+## WebAssembly
 
-- [Lin Clark's intro to WASM](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
-- [languages with WASM build support](https://github.com/appcypher/awesome-wasm-langs)
-	- [golang -> WASM experimental port](https://github.com/golang/go/wiki/WebAssembly)
+An intermediate compilation layer for the browser. You can compile code written in non-JS languages into WebAssembly executables and cross-access functions between the browser JS and your compiled code, allowing for potentially huge performance speedups (depending on your use case, of course).
+
+[Lin Clark's intro to WASM](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/).
+
+### Options
+[languages with WASM build support](https://github.com/appcypher/awesome-wasm-langs)
+- [Pyodide](https://pyodide.org/en/stable/index.html) is a port of Python with scientific computing, compiled to WebAssembly so you can use it in-browser. Setup is quite smooth. Go to the [Pyodide web console](https://pyodide.org/en/stable/console.html) to see it in action.
+- [golang -> WASM experimental port](https://github.com/golang/go/wiki/WebAssembly)
 - [TinyGo](https://tinygo.org/): a subset of Golang designed to be run on embedded systems or in WebAssembly
 
 ## Clojure
@@ -51,3 +55,8 @@ Released in 2007. An expressive functional language that runs on the JVM and has
 
 #### `twisted`
 - https://www.infoq.com/presentations/Twisted-Python/
+
+
+# Web services
+
+- [AWS in plain English](https://expeditedsecurity.com/aws-in-plain-english/). "S3: Should have been called 'Amazon Unlimited FTP Server'". The unpacking of AWS's opaquely named services we all need.

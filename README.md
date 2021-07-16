@@ -13,6 +13,7 @@ I also enjoy foundational theoretical understanding, so this list biases more to
 - [choosing and understanding toolchains](TOOLCHAINS.md)
 - [corpora & datasets](CORPORA.md)
 - [useful tools](UTILS.md)
+- [interactive help in different langs](HELP.md)
 
 # Bonus
 - [physical ergonomics](ERGONOMICS.md)
