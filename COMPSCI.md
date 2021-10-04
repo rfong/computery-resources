@@ -33,3 +33,13 @@ The field of computationally making inferences about _natural language_, that is
 
 - _Introduction to Algorithms, 3rd ed._ (1989), better known as [CLRS](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) after the initials of its authors. Canonical classic CS textbook.
 - USACO (USA Computing Olympiad) [training resources](http://www.usaco.org/index.php?page=training). I grew up on these and my interest in computer science probably began here. Great hands-on approach to thinking about clever algorithmic design and performance optimization, through the allegory of cows.
+
+## HCI (Human-Computer Interfaces)
+
+### Data visualization
+
+[NYU's Information Visualization Specialization](https://www.coursera.org/specializations/information-visualization) is a truly excellent series of courses on effective data visualization through knowledge of how human perception works.
+- I found the first and fourth courses most useful.
+- The hands-on exercises are fantastic for understanding how to evaluate and construct objectively effective visualizations.
+- The second course may already be common knowledge to some, but is useful if you aren't familiar with optimizing for partial colorblindness.
+- The third course may be skipped entirely if you prefer to get familiar with libraries via hands-on exercises and docsets (rather than lectures), but may be useful if you are unfamiliar with frontend programming and prefer lectures.
