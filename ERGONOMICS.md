@@ -1,5 +1,10 @@
 # Physical ergonomics
 
+## Posture
+
+- [8 Steps To A Pain-Free Back (Esther Gokhale)](https://www.goodreads.com/book/show/2275868.8_Steps_to_a_Pain_Free_Back)
+- The average ergonomic chair is terribly proportioned for short people. As a very short person I've had the most luck with armless drafting chairs, benches, tailbone cushions, and floor cushions, but that's just me. Don't buy stuff just because marketing tells you to.
+
 ## Keyboard
 Ergonomic keyboards are intensely personal and varied, and no single one will work for everyone. Your best bet is to try printing up some layouts to see what your hands like, and get advice from people with similar use cases and similar types of repetitive strain injury.
 
