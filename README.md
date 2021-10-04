@@ -18,6 +18,7 @@ I also enjoy foundational theoretical understanding, so this list biases more to
 # Bonus
 - [physical ergonomics](ERGONOMICS.md)
 - [educational explorables](EXPLORABLES.md)
+- [local-first resources](LOCALFIRST.md)
 
 # TODO
 - ethics
