@@ -25,7 +25,8 @@ I have been moving more and more of my personal infrastructure offline because:
 
 ## Offline information access
 
-[Dash by Kapeli](https://kapeli.com/dash) is a $30 offline database of 200+ API documentation sets. It also supports generating your own docsets or downloading third-party docsets. Unfortunately, only available for macOS.
+- [Dash by Kapeli](https://kapeli.com/dash) is a $30 offline database of 200+ API documentation sets. It also supports generating your own docsets or downloading third-party docsets. Only supports macOS.
+- [Zeal](https://zealdocs.org/) is a similar offline docuset browser, supported for Linux or Windows.
 
 [Internet In A Box](http://internet-in-a-box.org/) is a piece of FOSS software that makes it easy to self-host downloaded websites on a Raspberry Pi. It is often used to increase information equitability in places where it's prohibitively expensive to get Internet access, or as an emergency backup at hospitals.
 
