@@ -6,18 +6,28 @@
 - The average ergonomic chair is terribly proportioned for short people. As a very short person I've had the most luck with armless drafting chairs, benches, tailbone cushions, and floor cushions, but that's just me. Don't buy stuff just because marketing tells you to.
 
 ## Keyboard
-Ergonomic keyboards are intensely personal and varied, and no single one will work for everyone. Your best bet is to try [printing up some layouts](https://jhelvy.shinyapps.io/splitkbcompare/) to see what your hands like, and get advice from people with similar use cases and similar types of repetitive strain injury.
 
-In particular, when asking for keyboard recommendations, it is helpful to mention whether your main issues are wrist pain, pinky pain, thumb pain, forearm pain, tennis elbow, etc, what types of keyboard activity give you pain, and whether you have any specialized workflows that need consideration (such as CAD).
+Ergonomic keyboards are intensely personal and varied, and no single one will work for everyone. Your best bet is to try [printing up some layouts](https://jhelvy.shinyapps.io/splitkbcompare/) to see what feels natural for your hands, and collect advice from people with similar use cases and similar types of repetitive strain injury.
+
+In particular, when asking for keyboard recommendations, it is helpful to describe your particular RSI. 
+- is the pain in your wrist, pinky, thumb, forearm, etc?
+- is the pain in your nerves, joints, or muscles?
+- do you feel the pain on extension, flexion, movement in general, while pressing keys, etc?
+- are there particular things about your current layout that give you pain? bad wrist angle, overreliance on pinky, etc?
+- do you have any specialized workflows that need consideration (such as CAD)?
+
+### Resources for finding the right keyboard layout for you
 
 - [splitKbCompare](https://jhelvy.shinyapps.io/splitkbcompare/): a split keyboard layout comparison site where you can print life-size layouts to get a feel for them
 - [aposymbiont's filterable split keyboard gallery](https://aposymbiont.github.io/split-keyboards/)
 - [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards): quick visual overview of split keyboards
-- [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/): extremely friendly and knowledgeable community of ergonomic mechanical keyboard enthusiasts. (Note that although [r/MechanicalKeyboards](https://reddit.com/r/MechanicalKeyboards) may appear superficially similar and has some overlap, it is on average significantly more focused on aesthetics, collecting, and gaming than on ergonomics issues.)
+- [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/): extremely friendly and knowledgeable community of ergonomic mechanical keyboard enthusiasts. (Note that although [r/MechanicalKeyboards](https://reddit.com/r/MechanicalKeyboards) may appear superficially similar and has some overlap, it is on average significantly more focused on aesthetics, collecting, and gaming; I would not refer to it for ergonomics issues.)
 - [Infographic of mechanical keyboard form factors](https://i0.wp.com/superanked.com/wp-content/uploads/2020/10/SupeRanked-X04-Custom-Mechanical-Keyboard-Infographic-Desk-Mat-V3-Main.jpg?fit=2048%2C2048&ssl=1) by [SupeRanked](https://superanked.com)
 - [kbd.news](https://kbd.news) posts cool custom keyboard builds and projects. Dangerously distracting if you are tempted by collecting keyboards, useful if you are looking for inspiration for a very specific mod you want to build.
 
-As a vim user and touch typist with pinky RSI, minor thumb arthritis, and no wrist issues (yet), I use [light tactile switches](https://input.club/the-comparative-guide-to-mechanical-switches/tactile/hako-violet/) on a [crkbd/Corne](https://github.com/foostan/crkbd) (split 40% ortholinear keyboard), which makes great use of layers and has an exceptionally comfortable thumb layout that lets you transfer a lot of traditional pinky work to the thumbs. I also hand-built a custom [trackpoint hotswap mod](https://github.com/manna-harbour/crkbd/issues/1#issuecomment-953258378) so that I don't have to use a mouse. I stayed on QWERTY since it was not the source of my pain.
+### Notes on my RSI & setup
+
+As a vim user and touch typist with pinky nerve issues from overuse, minor thumb arthritis, and no wrist issues (yet), I use [light tactile switches](https://input.club/the-comparative-guide-to-mechanical-switches/tactile/hako-violet/) on a [crkbd/Corne](https://github.com/foostan/crkbd) (split 40% ortholinear keyboard), which makes great use of layers and has an exceptionally comfortable thumb layout that lets you transfer a lot of traditional pinky work to the thumbs. I also hand-built a custom [trackpoint hotswap mod](https://github.com/manna-harbour/crkbd/issues/1#issuecomment-953258378) so that I don't have to use a mouse. I stayed on QWERTY since it was not the source of my pain.
 
 Do not be fooled by how wacky [my keyboard setup](https://rfong.github.io/rflog/tag/keyboard) looks. I can type 140wpm on it just fine and code at approximately full speed (some things are a little slower, some things are a little faster). Ortholinear slowed me down to 20wpm at first, but after about 2 days of [monkeytype](https://monkeytype.com/) practice, I was back at full speed, and can still seamlessly switch to using a standard keyboard layout at full speed. It is very comfortable for me. Hope you also find something that works well for your hands!
 
