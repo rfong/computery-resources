@@ -8,4 +8,4 @@
 
 ## Computational geometry
 
-- [Shapenet](https://shapenet.org/): a very large, richly-annotated dataset of 3D shapes. (Word of warning: Last time I used it, there were occasional typos in the metadata which you will need to resolve programmatically or manually.)
+- [Shapenet](https://shapenet.org/): a very large, richly-annotated dataset of 3D shapes. (Word of warning: Last time I used it, there were occasional typos in the metadata which I had to resolve programmatically or manually.)

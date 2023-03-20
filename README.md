@@ -1,10 +1,13 @@
-Some recommended computery resources. Perpetual work in progress.
+Some recommended computery resources.
 
-### Context: learning modalities
+### Before you dig in: do our preferred learning modalities match up?
 
-My preferred learning modalities are text-based, visual, and exploratory, and I tend to not do so well with audio. Any recommendations I make may not necessarily work well for people who prefer audio to text, or who have difficulty with spatial intuition.
+My resource recommendations may **not** be great if:
+- you prefer audio lectures to reading
+- you have difficulty with spatial intuition (I have excellent spatial intuition so this is a blindspot for me)
+- when learning something for the first time, you don't need a complete explanation / don't want to dive many architectural layers deep under the hood to understand exactly why it works that way
 
-I also enjoy foundational theoretical understanding, so this list biases more toward "how/why it works" than "how-to".
+I prefer textbooks, written articles, diagrams, and interactives. I have a really hard time absorbing info through audio lectures. I also prefer establishing foundational understanding over gratuitous short-term payoffs, so I tend to go for resources that are very thorough.
 
 
 # Subsections
