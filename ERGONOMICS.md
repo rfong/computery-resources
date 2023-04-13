@@ -13,12 +13,15 @@
 
 Ergonomic keyboards are intensely personal and varied, and no single one will work for everyone. Your best bet is to try [printing up some layouts](https://jhelvy.shinyapps.io/splitkbcompare/) to see what feels natural for your hands, and collect advice from people with similar use cases and similar types of repetitive strain injury.
 
-In particular, when asking for keyboard recommendations, it is helpful to describe your particular RSI. 
+In particular, when asking for keyboard recommendations, it is helpful to describe your particular RSI & situation. 
 - is the pain in your wrist, pinky, thumb, forearm, etc?
 - is the pain in your nerves, joints, or muscles?
 - do you feel the pain on extension, flexion, movement in general, while pressing keys, etc?
 - are there particular things about your current layout that give you pain? bad wrist angle, overreliance on pinky, etc?
 - do you have any specialized workflows that need consideration (such as CAD)?
+- how big are your hands?
+- what's your budget?
+- how severe are your hand injuries / how fast do you need to acquire a different keyboard?
 
 ### Resources for finding the right keyboard layout for you
 
