@@ -1,10 +1,14 @@
 # Computer science
 
-(I am only including relatively language-agnostic resources in this section.)
+(This section leans toward relatively language-agnostic resources.)
 
 ## Distributed systems
 
 - [_Designing Data-Intensive Applications_ (DDIA)](https://dataintensive.net/), Kleppmann, 2017. Fantastic tome full of sick burns, helpful industry case studies, and conceptual frameworks for robustly tailoring data-intensive distributed systems architecture to different scenarios. Accessible but dense; the ideal target reader has past experience in large-scale data engineering or distsys to tie the concepts back to. Without past experience, this may come off as an overwhelming potpourri of endless acronyms/references and just taking Kleppmann's word for whatever he's saying.
+
+## Systems
+
+- I liked [jmeiners' tutorial] on writing your first toy virtual machine. Did a [C implementation here](https://github.com/rfong/lc3-vm-c).
 
 ### Conflict-free replicated data types (CRDTs)
 
