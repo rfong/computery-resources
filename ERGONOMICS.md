@@ -4,7 +4,7 @@ Physical ergonomics
 # Posture
 
 - [8 Steps To A Pain-Free Back (Esther Gokhale)](https://www.goodreads.com/book/show/2275868.8_Steps_to_a_Pain_Free_Back) - More like 8 chapters to a pain-free back, but still good. I did every exercise in this book and it fixed my lumbar pain in one week.
-- Your eyes should be level with the top of your screen. I use a $20 knockoff of the portable "Roost" laptop stand that works great for me.
+- Your eyes should be level with the top of your screen; measure the distance you need and buy a riser accordingly. I've been using a $20 knockoff of the portable "Roost" laptop stand for several years and I love it.
 - The average ergonomic chair is terribly proportioned for short people. As a very short person I've had the most luck with armless drafting chairs, benches, tailbone cushions, and floor cushions, but that's just me. Don't buy stuff just because marketing tells you to.
 
 # Software
