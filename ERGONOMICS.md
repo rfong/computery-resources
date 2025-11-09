@@ -1,13 +1,23 @@
-# Physical ergonomics
+Physical ergonomics
+---
 
-## Posture
+# Posture
 
-- [8 Steps To A Pain-Free Back (Esther Gokhale)](https://www.goodreads.com/book/show/2275868.8_Steps_to_a_Pain_Free_Back)
+- [8 Steps To A Pain-Free Back (Esther Gokhale)](https://www.goodreads.com/book/show/2275868.8_Steps_to_a_Pain_Free_Back) - More like 8 chapters to a pain-free back, but still good. I did every exercise in this book and it fixed my lumbar pain in one week.
+- Your eyes should be level with the top of your screen. I use a $20 knockoff of the portable "Roost" laptop stand that works great for me.
 - The average ergonomic chair is terribly proportioned for short people. As a very short person I've had the most luck with armless drafting chairs, benches, tailbone cushions, and floor cushions, but that's just me. Don't buy stuff just because marketing tells you to.
 
-## Software
+# Software
 
-- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) adds vim bindings to your browser.
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) adds vim bindings to your browser so you don't have to use your mouse.
+
+# Peripherals
+
+[This lightning talk I made](https://docs.google.com/presentation/d/1rMRcxihBgw_P92T4y_71fgIy3SFMkRZEC9HJ8hEzxTY/edit?slide=id.g22d6dd4f5a9_0_5#slide=id.g22d6dd4f5a9_0_5) mostly focuses on keyboards, but includes diagrams on the natural position your body parts want to be in, and how to debug some common ergonomics issues you might have from computer use.
+
+## Mouse
+
+TBD but vertical mice work well for people with wrist pronation issues
 
 ## Keyboard
 
