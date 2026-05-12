@@ -36,7 +36,7 @@ In particular, when asking for keyboard recommendations, it is helpful to descri
 
 ### Resources for finding the right keyboard layout for you
 
-- [splitKbCompare](https://jhelvy.shinyapps.io/splitkbcompare/): a split keyboard layout comparison site where you can print life-size layouts to get a feel for them
+- [splitKbCompare](https://jhelvy.shinyapps.io/splitkbcompare/): a split keyboard layout comparison site where you can print life-size layouts to see if they fit your hands; highly recommend doing this before buying anything!
 - [aposymbiont's filterable split keyboard gallery](https://aposymbiont.github.io/split-keyboards/)
 - [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards): quick visual overview of split keyboards
 - [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/): extremely friendly and knowledgeable community of ergonomic mechanical keyboard enthusiasts. (Note that although [r/MechanicalKeyboards](https://reddit.com/r/MechanicalKeyboards) may appear superficially similar and has some overlap, it is on average significantly more focused on aesthetics, collecting, and gaming; I would not refer to it for ergonomics issues.)
