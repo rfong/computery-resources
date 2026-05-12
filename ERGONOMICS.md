@@ -29,7 +29,7 @@ In particular, when asking for keyboard recommendations, it is helpful to descri
 - do you feel the pain on extension, flexion, movement in general, while pressing keys, etc?
 - are there particular things about your current layout that give you pain? bad wrist angle, overreliance on pinky, etc?
 - do you have any specialized workflows that need consideration (such as CAD)?
-- how big are your hands?
+- how big are your hands? more importantly, what position do your hands prefer to rest in?
 - what's your budget?
 - how severe are your hand injuries / how fast do you need to acquire a different keyboard?
 
