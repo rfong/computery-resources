@@ -71,7 +71,7 @@ Keycaps actually make a big difference on low-profile switches because the switc
 
 Many indie keyboard users make use of [QMK](https://qmk.fm/), an open-source 
 firmware project for heavily customizing computer input devices, with great 
-support for layering and macros.
+support for layering and macros. ZMK is the wireless equivalent, with slightly different feature support.
 
 If you only need "basic functionality" (remapping keys and using layers and 
 macros), there are some great streamlined tools for that which don't require 
