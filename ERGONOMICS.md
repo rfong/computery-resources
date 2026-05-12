@@ -22,7 +22,7 @@ TBD but vertical mice work well for people with wrist pronation issues
 
 ## Keyboard
 
-Ergonomic keyboards are intensely personal and varied, and no single one will work for everyone. Your best bet is to try [printing up some layouts](https://jhelvy.shinyapps.io/splitkbcompare/) to see what feels natural for your hands, and collect advice from people with similar use cases and similar types of repetitive strain injury.
+Ergonomic keyboards are intensely personal and varied based on your particular injuries and hand requirements, and no single one will work for everyone. If you see a proprietary keyboard advertising itself as the ultimate and best keyboard for everyone, stay away from them. Your best bet is to try [printing up some layouts](https://jhelvy.shinyapps.io/splitkbcompare/) to see what feels natural for your hands, and collect advice from people with similar use cases and similar types of repetitive strain injury.
 
 In particular, when asking for keyboard recommendations, it is helpful to describe your particular RSI & situation. 
 - is the pain in your wrist, pinky, thumb, forearm, etc?
