@@ -34,15 +34,12 @@ In particular, when asking for keyboard recommendations, it is helpful to descri
 - what's your budget?
 - how severe are your hand injuries / how fast do you need to acquire a different keyboard?
 
-If you feel the pain most in your fingertips or nerves at the moment you strike the keys, then you could probably benefit from lighter switches. But if you are overstriking, then lighter switches alone won't magically solve problems if you are overstriking. You might also need to retrain yourself to type more lightly. If you feel fingertip pain even when pressing on a key very slowly and gently, then your problems might indeed be addressed just by lighter switches.
-
-If you feel up-down pain in your wrists, you might benefit from retraining yourself to float your wrists, or from physical wrist rests.
-
-If you feel side-to-side pain in your wrists, you might benefit from a split board. (A true split board with physically separated halves, not a fixed "split".)
-
-If your pinkies hurt, try a board with thumb clusters to reduce pinky work.
-
-If moving your fingers off homerow hurts, try a small board with 36 physical keys and a layered virtual layout.
+Example pain-to-solution mappings:
+- If you feel the pain most in your fingertips or nerves at the moment you strike the keys, then you could probably benefit from lighter switches. But if you are overstriking, then lighter switches alone won't magically solve problems if you are overstriking. You might also need to retrain yourself to type more lightly. If you feel fingertip pain even when pressing on a key very slowly and gently, then your problems might indeed be addressed just by lighter switches.
+- If you feel up-down pain in your wrists, you might benefit from retraining yourself to float your wrists, or from physical wrist rests.
+- If you feel side-to-side pain in your wrists, you might benefit from a split board. (A true split board with physically separated halves, not a fixed "split".)
+- If your pinkies hurt, try a board with thumb clusters to reduce pinky work.
+- If moving your fingers off homerow hurts, try a layered layout on a smaller board so that you don't need to move your hands much.
 
 ### Resources for finding the right keyboard layout for you
 
