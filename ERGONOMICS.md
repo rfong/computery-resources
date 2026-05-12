@@ -57,9 +57,11 @@ Do not be fooled by how wacky [my keyboard setup](https://rfong.github.io/rflog/
 
 #### Switches and keycaps
 
-**Switch weight:** 20-30g is good if you have severe nerve pain or RSI. 20g is ultralight and can accidentally actuate if you just rest your fingers on the keys. "Standard" switches in laptops and off-the-shelf keyboards are usually in the 60-80g range. Many laptop users are accustomed to striking their keys quite hard.
+You can buy switch tester kits before committing to a big pack of switches. I got a Kono 9-switch tester on eBay for $9 to figure out what switch weight and type might be good for me.
 
-I like tactile switches because they give good typing feedback so I can type more gently without hitting the bottom of the switch range. This trained me to type more lightly and avoid unnecessary strain.
+**Switch weight:** "Standard" switches in laptops and off-the-shelf keyboards are usually in the 60-70g range. 20-30g is good if you have severe nerve pain or RSI. 20g is ultralight and can accidentally actuate if you just rest your fingers on the keys. It will take some practice before a 20g press becomes perceptible to your fingertips. Many laptop users are accustomed to striking their keys quite hard. Try to train yourself to type with the minimum necessary actuation force, because there's no point in buying 20g switches if you're just going to slam your fingers into the board with 100g force anyways.
+
+I like tactile switches because they give good typing feedback so I can type more gently without hitting the bottom of the switch range. This trained me to type more lightly and avoid unnecessary strain. However, I use linears on my low-profile board.
 
 On my standard-height crkbd, I used ["Hako Violet"](https://input.club/the-comparative-guide-to-mechanical-switches/tactile/hako-violet/) light tactile switches with 28g actuation force, which are the lightest Cherry MX tactiles available. I used DSA keycaps because they feel nice, but I don't think keycap choice is functionally important on Cherry MX switches.
 
