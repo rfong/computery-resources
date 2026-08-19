@@ -53,7 +53,7 @@ Example pain-to-solution mappings:
 ### Notes on my RSI & setup
 
 **Body context:** 
-- In 2021, I developed ulnar nerve damage from a computer-unrelated bilateral injury which made it excruciatingly painful to type with my pinkies or even gently touch them to a surface with 30g force. It took about 3 months to rehab them after I figured out my new keyboard, which I painstakingly researched and programmed using only 8 of my fingers.
+- In 2021, I developed bilateral ulnar nerve damage from a computer-unrelated bike injury which made it excruciatingly painful to type with my pinkies or even gently touch them to a surface with 30g force. It took about 3 months to rehab them after I figured out my new keyboard, which I painstakingly researched and programmed using only 8 of my fingers.
 - I have minor/occasional thumb arthritis from smartphone use.
 - Fingers 2, 3, and 4 are generally fine on both my hands.
 - I touch type and I primarily code in `vim`.
