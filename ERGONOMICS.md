@@ -10,6 +10,7 @@ Physical ergonomics
 
 # Software
 
+- [Awayra](https://awayra.pages.dev/) is a free, open-source Windows app for eye-rest and movement reminders with independently adjustable intervals and durations, work hours, idle reset, snooze and optional sounds. [Source and downloads](https://github.com/AWAYRA/AWAYRA-WPF).
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) adds vim bindings to your browser so you don't have to use your mouse.
 
 # Peripherals
